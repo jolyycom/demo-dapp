@@ -1,4 +1,4 @@
-![JOLYY Demo](https://github.com/jolyycom/demo-dapp/images/jolyypic.png)
+![JOLYY Demo]([Imgur](https://i.imgur.com/lD29zhX.png))
 
 # JOLYY Demo DApp
 This is an example DApp (Decentralized Application) that shows how easy it is to create a truly peer to peer beauty services marketplace on the Ethereum blockchain. Using only javascript, you can create and purchase beauty services leave reviews, check identity and more.
@@ -50,14 +50,14 @@ A browser will open to http://localhost:3000. If you don't have the MetaMask ext
 - Get Rinkeby ether from the [Rinkeby faucet](https://faucet.rinkeby.io/).
 - Get Ropsten ether from the [Ropsten faucet](https://faucet.metamask.io/).
 
-### 4. Try it!
+### 5. Try it!
 
 Create a listing and post it to IPFS and Ethereum.
 
-## Run Demo DApp with local origin-js and local blockchain
+## Run Demo DApp with local blockchain
 
 
-### 3. Connect to your local blockchain in MetaMask
+### 6. Connect to your local blockchain in MetaMask
 
 
 ## Contributing
