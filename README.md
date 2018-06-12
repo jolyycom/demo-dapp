@@ -1,4 +1,4 @@
-![JOLYY Demo]([Imgur](https://i.imgur.com/lD29zhX.png))
+![JOLYY Demo](https://i.imgur.com/lD29zhX.png)
 
 # JOLYY Demo DApp
 This is an example DApp (Decentralized Application) that shows how easy it is to create a truly peer to peer beauty services marketplace on the Ethereum blockchain. Using only javascript, you can create and purchase beauty services leave reviews, check identity and more.
